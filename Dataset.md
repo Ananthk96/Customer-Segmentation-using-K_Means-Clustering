@@ -15,3 +15,5 @@ UnitPrice: Unit price. Numeric. Product price per unit in sterling (Â£).
 CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
 
 Country: Country name. Nominal. The name of the country where a customer resides.
+
+## Dataset Link: https://archive.ics.uci.edu/dataset/502/online+retail+ii
